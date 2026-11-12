@@ -14,6 +14,11 @@ Five years in production, across fintech, real estate, health-tech, and safety p
 
 ## Selected work
 
+**[Harness](https://github.com/ahmadkhidir/harness)** · Flutter
+Mobile-first agent runtime. Multi-turn tool loops with parallel dispatch, bring-your-own model across
+Gemini, Claude, OpenAI and an on-device LiteRT model, a sandboxed workspace with loadable skills, and
+A2UI surfaces rendered as native widgets.
+
 **[AegisMCP](https://github.com/ahmadkhidir/aegismcp)** · Java
 Zero-trust reverse proxy for MCP tool calls. Policy as code, DLP scrubbing, human approvals, and a
 hash-chained audit ledger. Built on the premise that an agent with unmonitored tool access is a
@@ -35,9 +40,6 @@ fallback, three-state circuit breaker, Prometheus metrics. Three external depend
 **[Vectr](https://github.com/vanguard-op/vectr)** · Rust
 Vector graphics language and deterministic compiler that turns a description into editable SVG, PNG,
 or PDF.
-
-**[Scenova](https://github.com/vanguard-op/scenova)** · Python
-Video dictionary that shows a word's meaning in place, rather than describing it.
 
 ## Stack
 
